@@ -7,24 +7,18 @@ body {
     background: #23252C;
     color: #F5F5F5;
     border-radius: 10px;
+    font-family: inter;
 }
 
 .container {
     margin: 0 auto;
     max-width: 317px;
-    height: 80%;
+    background: #1A1B21;
 }
 
 p, h1, h2 {
     margin: 0;
     padding: 0;
-}
-
-.info,
-.about,
-.interests,
-.container {
-    background: #1A1B21;
 }
 
 h1 {
